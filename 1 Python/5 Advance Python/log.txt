@@ -1,0 +1,5 @@
+INFO: User logged in 
+ERROR: Database connection failed
+INFO: Task Completed
+ERROR: File not found
+ERROR: Timeout while connecting to server

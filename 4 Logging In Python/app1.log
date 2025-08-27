@@ -1,0 +1,5 @@
+2025-08-27 11:31:18-ArithmeticApp-DEBUG-10 + 10 = 20
+2025-08-27 11:31:18-ArithmeticApp-DEBUG-15 - 10 = 5
+2025-08-27 11:31:18-ArithmeticApp-DEBUG-5 * 5 = 25
+2025-08-27 11:31:18-ArithmeticApp-DEBUG-100 / 10 = 10.0
+2025-08-27 11:34:55-ArithmeticApp-ERROR-Cannot divide by Zero

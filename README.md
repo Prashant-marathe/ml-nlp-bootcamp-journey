@@ -31,7 +31,7 @@ This is a **personal learning log**, showcasing my progress through the course:
 ##  How to Use / Reproduce
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/learn-ml-nlp-bootcamp.git
+git clone https://github.com/Prashant_marathe/learn-ml-nlp-bootcamp.git
 cd learn-ml-nlp-bootcamp
 
 # Install dependencies

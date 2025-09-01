@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Result</title>
+</head>
+<body>
+    {% if score >= 55 %}
+    <p>Your score is {{score}} which means you PASSED. Congratulations 🥳🥳🥳</p>
+    {% else %}
+    <p>Your score is {{score}} which means you FAILED. Better Luck Next Time.</p>
+    {% endif %}
+</body>
+</html>
